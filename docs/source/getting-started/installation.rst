@@ -85,7 +85,7 @@ If there are any issues with the installation, the examples, or if you have any 
 Development Version
 -------------------
 
-You may choose to install the **development version of TudatPy**, which is a conda package that is updated as soon as changes are merged to the development branch of the code on GitHub. 
+You may choose to install the **development version of TudatPy**, which is a conda package that is typically build weekly from the ``develop`` branch of the https://github.com/tudat-team/tudatpy repository.
 To do so, you can again download the :download:`environment-dev.yaml <_static/environment-dev.yaml>` file and create a new conda environment with the development version of TudatPy by using the following commands:
 
 .. code-block:: bash
